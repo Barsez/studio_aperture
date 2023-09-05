@@ -727,7 +727,3 @@ li:hover::before {
 .block {
     display: block;
 }
-
-body {
-    background-color: #000;
-}
